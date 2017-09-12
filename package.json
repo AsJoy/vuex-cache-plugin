@@ -4,9 +4,13 @@
   "description": "async function cache plugin with vuex using actions and mutations",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "exapmle": ""
   },
-  "keywords": ["vuex", "plugin", "action-mutation-cache"],
+  "keywords": [
+    "vuex",
+    "plugin",
+    "action-mutation-cache"
+  ],
   "author": "niuyuanqiang <1347827212@qq.com> (https://github.com/AsJoy)",
   "license": "MIT"
 }

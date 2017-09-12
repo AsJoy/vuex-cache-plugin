@@ -2,13 +2,9 @@
  * Created by yuanqiangniu on 2017/9/10.
  */
 export default class Cache {
-  key
-  cache
-  updated
   constructor(key) {
-    this.key = key
-  }
-  set cachekey(key) {
+    this.cache = null
+    this.updated = false
     this.key = key
   }
   cacheSet(key, value, longTerm = false) {
