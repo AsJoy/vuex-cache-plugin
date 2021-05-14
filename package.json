@@ -14,6 +14,6 @@
   "author": "niuyuanqiang <1347827212@qq.com> (https://github.com/AsJoy)",
   "license": "MIT",
   "dependencies": {
-    "debug": "^4.1.1"
+    "debug": "^4.3.2"
   }
 }
